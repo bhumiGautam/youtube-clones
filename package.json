@@ -1,7 +1,7 @@
 {
   "name": "youtube-clone",
   "private": true,
-  "homepage": "https://github.com/bhumiGautam/youtube-clones.git",
+  "homepage": "https://bhumigautam.github.io/youtube-clones",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
